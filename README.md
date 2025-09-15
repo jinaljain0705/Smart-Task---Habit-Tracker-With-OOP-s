@@ -76,6 +76,6 @@ Progress: 33%
 
 Output:
 ![Main](https://github.com/jinaljain0705/Smart-Task---Habit-Tracker-With-OOP-s/blob/main/Output/Main.png)
-![Taskadd]()
+![Taskadd](https://github.com/jinaljain0705/Smart-Task---Habit-Tracker-With-OOP-s/blob/main/Output/TaskAdd.png)
 ![TaskUpdated]()
 ![TaskDelete]()
