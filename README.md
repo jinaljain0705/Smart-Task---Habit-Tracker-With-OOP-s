@@ -75,6 +75,7 @@ Progress: 33%
 8. Responsive UI using Tailwind + media queries
 
 Output:
-![]()
-![]()
-![]()
+![Main]()
+![Taskadd]()
+![TaskUpdated]()
+![TaskDelete]()
