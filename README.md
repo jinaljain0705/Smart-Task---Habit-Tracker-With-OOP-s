@@ -74,3 +74,7 @@ Progress: 33%
 7. Conditional Statements (task status, overdue calculation)
 8. Responsive UI using Tailwind + media queries
 
+Output:
+![]()
+![]()
+![]()
