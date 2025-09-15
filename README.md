@@ -78,4 +78,4 @@ Output:
 ![Main](https://github.com/jinaljain0705/Smart-Task---Habit-Tracker-With-OOP-s/blob/main/Output/Main.png)
 ![Taskadd](https://github.com/jinaljain0705/Smart-Task---Habit-Tracker-With-OOP-s/blob/main/Output/TaskAdd.png)
 ![TaskUpdated](https://github.com/jinaljain0705/Smart-Task---Habit-Tracker-With-OOP-s/blob/main/Output/TaskUpdated.png)
-![TaskDelete]()
+![TaskDelete](https://github.com/jinaljain0705/Smart-Task---Habit-Tracker-With-OOP-s/blob/main/Output/DeleteTask.png)
