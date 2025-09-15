@@ -75,7 +75,7 @@ Progress: 33%
 8. Responsive UI using Tailwind + media queries
 
 Output:
-![Main]()
+![Main](https://github.com/jinaljain0705/Smart-Task---Habit-Tracker-With-OOP-s/blob/main/Output/Main.png)
 ![Taskadd]()
 ![TaskUpdated]()
 ![TaskDelete]()
